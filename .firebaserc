@@ -1,5 +1,9 @@
 {
   "projects": {
+<<<<<<< HEAD
+    "default": "devops-team-04-ee5b5"
+=======
     "default": "devops-team-04-6ff29"
+>>>>>>> 5f56273fbe970cc7050d4d3367a4052aefa4f577
   }
 }
